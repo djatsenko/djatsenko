@@ -14,7 +14,7 @@
  
 👨‍🎓 I’m currently learning **Docker, Vita, React and more**
 
-💬 Feel free to DM me on social media
+💬 Feel free to DM me on **social media**
 
 😈 Fun fact **In Clash Royale, Mother Witch bakes the best cookies**
 
