@@ -10,7 +10,7 @@
 
 <div align="center">
  
-👨‍💻 I’m currently working on **a cinemawebsite**
+👨‍💻 I’m currently working on **a cinema website**
  
 👨‍🎓 I’m currently learning **Docker, Vita, React and more**
 
