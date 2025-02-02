@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+👨‍💻 I’m currently working on **a cinemawebsite**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+👨‍🎓 I’m currently learning **Docker, Vita, React and more**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Feel free to DM me on social media
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+😈 Fun fact **In Clash Royale, Mother Witch bakes the best cookies**
 
  </div>
  
